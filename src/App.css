@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  word-break: break-word ;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+body{
+  color: white;
+}
+.form-floating>.form-control{
+  background: black;
+  color: white;
+}
+body .App {
+  background-color: #1d1d1d;
+}
+
+main{
+  min-height: 100vh;
+}
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+/*# sourceMappingURL=App.css.map */
